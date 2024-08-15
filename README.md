@@ -46,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phihungvo&show_icons=true&locale=en" alt="phihungvo" /></p>
 
-<h3 align="left">What i do</h3>
+<h3 align="left">What can i do</h3>
 <br />
 <p align="center">
  
