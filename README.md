@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 <img align="right" alt="Hung dang Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</br>
-<h3>About me</h3>
+
+<h3  align="left">About me</h3>
 
 - :house: I'm currently living and learning at NTTU at HCM City, Vietnam 🇻🇳.
 - :computer: I'm currently learning Spring Boot and want become a Jav developer.
