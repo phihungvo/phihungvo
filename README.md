@@ -6,7 +6,7 @@
 <h3  align="left">About me</h3>
 
 - :house: I'm currently living and learning at NTTU at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently learning Spring Boot and want become a Jav developer.
+- :computer: I'm currently learning Spring Boot and want become a Java developer.
 - :dart: I'm currently working on my pet projects.
 - :video_game: Nothing.
 - :coffee: I'm coffeer.
