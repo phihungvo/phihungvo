@@ -26,3 +26,14 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phihungvo&show_icons=true&locale=en&layout=compact" alt="phihungvo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phihungvo&show_icons=true&locale=en" alt="phihungvo" /></p>
+ ### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
