@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">I'm a Developer and I'm looking for Software Engineer Java job now!</h3>
 <img align="right" alt="Hung dang Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
