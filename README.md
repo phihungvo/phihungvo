@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">A passionate backend developer from Viet Nam</h3>
+<h3 align="center">I'm a Developer and I'm looking for Software Engineer Java job now!</h3>
 <img align="right" alt="Hung dang Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3  align="left">About me</h3>
@@ -8,7 +8,7 @@
 - :house: I'm currently living and learning at NTTU at HCM City, Vietnam 🇻🇳.
 - :computer: I'm currently learning Spring Boot and want become a Java developer.
 - :dart: I'm currently working on my pet projects.
-- :video_game: Nothing.
+- :mailbox: How to reach me vophihung987@gmail.com
 - :coffee: I'm coffeer.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
