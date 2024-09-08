@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Hung</h1>
-<h3 align="center">I'm a Developer and I'm looking for Java Software Engineer job now!</h3>
+<h3 align="center">I'm a passionate Developer actively seeking opportunities as a Java Software Engineer. With hands-on experience in Java development and Spring Framework, I'm ready to contribute to dynamic teams and innovative projects.</h3>
 
 
 <h3  align="left">About me</h3>
 
-- :house: I'm currently living and learning at NTTU at HCM City, Vietnam 🇻🇳.
-- :computer: I'm currently learning Spring Framework and want to become a Java developer.
-- :dart: I'm currently working on my pet projects.
-- :mailbox: How to reach me vophihung987@gmail.com
+- :house: Based in Ho Chi Minh City, Vietnam 🇻🇳, and currently studying at NTTU.
+- :dart: Attending a Java programming course at University of Science (HCMUS), and constantly learning new technologies.
+- :computer: Passionate about Java development, I'm deepening my skills in the Spring Framework while building personal projects.
+- :mailbox: Reach me at: vophihung987@gmail.com
 - :coffee: I'm coffeer.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phihungvo&show_icons=true&locale=en&layout=compact" alt="phihungvo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phihungvo&show_icons=true&locale=en" alt="phihungvo" /></p>
 
-<br>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
+
+
