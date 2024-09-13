@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Hung</h1>
 <h3 align="center">I'm a passionate Developer actively seeking opportunities as a Java Software Engineer. With hands-on experience in Java development and Spring Framework, I'm ready to contribute to dynamic teams and innovative projects.</h3>
 
-
 <h3  align="left">About me</h3>
 
 - :house: Based in Ho Chi Minh City, Vietnam 🇻🇳, and currently studying at NTTU.
@@ -37,5 +36,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phihungvo&show_icons=true&locale=en&layout=compact" alt="phihungvo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phihungvo&show_icons=true&locale=en" alt="phihungvo" /></p>
 
-
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fphihungvo"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fphihungvo&label=VISITORS&labelColor=%23697689&countColor=%232ccce4&style=flat&labelStyle=upper" /></a>
 
